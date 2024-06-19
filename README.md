@@ -9,7 +9,7 @@ This is a simple Flask API for managing a list of drinks. It allows you to add, 
 1. **Clone the repository:**
     ```sh
     git clone <repository-url>
-    cd <repository-directory>
+    cd <repository-directory>  
     ```
 
 2. **Create a virtual environment and activate it:**
