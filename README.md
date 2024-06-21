@@ -12,7 +12,7 @@ This is a simple Flask API for managing a list of drinks. It allows you to add, 
     cd <repository-directory>  
     ```
 
-2. **Create a virtual environment and activate it:**
+2. **Create a virtual environment and activate it:**   
     ```sh
     python3 -m venv venv
     source venv/bin/activate
